@@ -1,4 +1,4 @@
-=== Exchange Rate Table ===
+=== Currency Converter ===
 Contributors: fx-rate.net
 Donate link: http://www.fx-rate.net/
 Tags: currency converter, currency conversion, currency calculator, foreign exchange conversion, fx rate converter
@@ -18,10 +18,10 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 == Installation ==
 
 1. Download the zip file and extract the contents,
-2. Upload the folder `currency-converter` to your WP plugin folder `/wp-content/plugins/` directory,
+2. Upload the folder `currency-conversion` to your WP plugin folder `/wp-content/plugins/` directory,
 3. Go to Plugins > Installed, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
-5. Select a currency if necessary, and the size and layout of the calculator widget
+5. Select your currency, and the size and other currency options
 
 == Screenshots ==
 
@@ -40,8 +40,8 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 
 == Frequently Asked Questions ==
 
-= How frequently are the exchange rates updated? =
-The calculator exchange ratees are updated once a day from central bank and financial institution sources. 
+= How frequently are the values updated? =
+The table values are updated once a day GMT from central bank and financial institution sources. 
 
 = Is there support  ? = 
 Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) 
