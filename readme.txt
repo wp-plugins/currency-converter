@@ -4,7 +4,7 @@ Donate link: http://www.fx-rate.net/
 Tags: currency converter, currency conversion, currency calculator, foreign exchange conversion, fx rate converter, EUR, USD, CAD, GBP, USD, dollar, euro, sterling conversion
 Tested up to: 2.9.1
 Requires at least: 1.5
-Stable tag: trunk
+Stable tag: 2.0
 
 
 == Description ==
@@ -34,6 +34,11 @@ Please rate my plugin!
 
 == Changelog ==
 
+= 2.0 =
+* Released 11/08/2010 
+* Upgraded Converter Design
+* Added design options; choose width, colors, default value and so on
+
 = 1.0 =
 * Released 25/02/2010 
 * First release provides two types of calculators
@@ -45,4 +50,4 @@ Please rate my plugin!
 The table values are updated once a day GMT from central bank and financial institution sources. 
 
 = Is there support  ? = 
-Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) 
+Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) or email widgets at fx-rate.net
