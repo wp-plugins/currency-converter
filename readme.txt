@@ -31,6 +31,7 @@ Please rate my plugin!
 3. Hong Kong Dollar currency conversion calculator - vertical layout
 4. Generic currency conversion calculator - horizontal layout
 5. Euro currency conversion calculator - horizontal layout
+6. Options panel 
 
 == Changelog ==
 
