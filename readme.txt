@@ -14,8 +14,6 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 * Optionally choose a currency for the conversions
 * Updated once a day from central banks and government institutions
 
-Please rate my plugin!
-
 == Installation ==
 
 1. Download the zip file and extract the contents,
