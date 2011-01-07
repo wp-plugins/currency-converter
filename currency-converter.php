@@ -2,7 +2,7 @@
 /*
 Plugin Name: Currency Converter
 Description: Currency Converter for any currency in the world. You can choose the default currency for the converter.
-Author: fx-rate.net
+Author: enclick
 Version: 2.0
 Author URI: http://fx-rate.net
 Plugin URI: http://fx-rate.net/wordpress-currency-converter-plugin/
