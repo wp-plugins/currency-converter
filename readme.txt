@@ -1,5 +1,5 @@
 === Currency Converter ===
-Contributors: fx-rate.net
+Contributors: enclick
 Donate link: http://www.fx-rate.net/
 Tags: currency converter, currency conversion, currency calculator, foreign exchange conversion, fx rate converter, EUR, USD, CAD, GBP, USD, dollar, euro, sterling conversion
 Tested up to: 3.0.1
