@@ -18,9 +18,11 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 
 1. Download the zip file and extract the contents,
 2. Upload the folder `currency-conversion` to your WP plugin folder `/wp-content/plugins/` directory,
-3. Go to Plugins > Installed, and activate the plugin,
+3. Go to Plugins > Plugins, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
 5. Select your currency, and the size and other currency options
+6. Email us any problems to widgets at fx-rate.net, we will respond promptly
+7. Please rate our plugin!
 
 == Screenshots ==
 
@@ -49,4 +51,7 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 The table values are updated once a day GMT from central bank and financial institution sources. 
 
 = Is there support  ? = 
-Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) or email widgets at fx-rate.net
+Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) 
+
+= Email = 
+Email any problems or suggestions to widgets at fx-rate.net
