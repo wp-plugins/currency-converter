@@ -51,7 +51,7 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 The table values are updated once a day GMT from central bank and financial institution sources. 
 
 = Is there support  ? = 
-Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) 
+Yes, further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) and [fx-rate.net/conditions](http://fx-rate.net/getwidget_calculator/#conditions)
 
 = Email = 
 Email any problems or suggestions to widgets at fx-rate.net
