@@ -50,6 +50,9 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 = How frequently are the values updated? =
 The table values are updated once a day GMT from central bank and financial institution sources. 
 
+= Can I paste the currency converter into a post ? =
+Yes, javascript code is available directly from [fx-rate.net](http://fx-rate.net/). You have to paste the javascript into the post in HTML mode.
+
 = Is there support  ? = 
 Yes, further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) and [fx-rate.net/conditions](http://fx-rate.net/getwidget_calculator/#conditions)
 
