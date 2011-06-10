@@ -32,6 +32,7 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 4. Generic currency calculator - compact vertical layout and gold colour selection
 5. US Dollar currency calculator - horizontal layout and gold colour selection
 6. Admin panel 
+7. US Dollar currency calculator - horizontal layout and dark blue colour selection
 
 == Changelog ==
 
