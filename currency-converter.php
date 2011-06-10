@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Currency Converter
-Description: Currency Converter for any currency in the world. You can choose the default currency for the converter.
+Description: Currency Converter for any currency in the world. Allows selection of colors, size, layout, default currencies and values.
 Author: enclick
 Version: 2.1
 Author URI: http://fx-rate.net
