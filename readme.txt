@@ -1,38 +1,46 @@
 === Currency Converter ===
-Contributors: fx-rate.net
+Contributors: enclick
 Donate link: http://www.fx-rate.net/
 Tags: currency converter, currency conversion, currency calculator, foreign exchange conversion, fx rate converter, EUR, USD, CAD, GBP, USD, dollar, euro, sterling conversion
-Tested up to: 2.9.1
-Requires at least: 1.5
-Stable tag: 2.0
+Tested up to: 3.0.1
+Requires at least: 2.8
+Stable tag: 2.1
 
 
 == Description ==
 
-Currency calculator widget, converts money amounts between currencies. The plugin provides size and layout options.
+Currency calculator widget, converts money amounts between currencies. Size, color, and layout can be customized.
 
-* Optionally choose a currency for the conversions
-* Updated once a day from central banks and government institutions
-
-Please rate my plugin!
+* Choose default currencies for the conversions
+* Choice of over 200 currencies
+* Choice of display formats, adjustable width and header colors
+* Widget is preloaded with exchange rates, so calculation is instant
 
 == Installation ==
 
 1. Download the zip file and extract the contents,
 2. Upload the folder `currency-conversion` to your WP plugin folder `/wp-content/plugins/` directory,
-3. Go to Plugins > Installed, and activate the plugin,
+3. Go to Plugins > Plugins, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
 5. Select your currency, and the size and other currency options
+6. Please email us any problems to widgets at fx-rate.net, we appreciate the help in improving the plugin
+7. If you find the widget useful, please take the time to rate our plugin. Thank you.
 
 == Screenshots ==
 
-1. Generic currency conversion calculator - vertical layout
-2. Euro currency conversion calculator - vertical layout
-3. Hong Kong Dollar currency conversion calculator - vertical layout
-4. Generic currency conversion calculator - horizontal layout
-5. Euro currency conversion calculator - horizontal layout
+1. Generic currency calculator - vertical layout
+2. Generic currency calculator - horizontal layout and green colour selection
+3. GB Sterling Pound currency calculator - vertical layout and blue colour selection
+4. Generic currency calculator - compact vertical layout and gold colour selection
+5. US Dollar currency calculator - horizontal layout and gold colour selection
+6. Admin panel 
 
 == Changelog ==
+
+= 2.1 =
+* Released 11/06/2011
+* Upgraded internal programming to allow multiple widgets on sidebar, for improved admin panel response, and compatibility with Wordpress in the future
+
 
 = 2.0 =
 * Released 11/08/2010 
@@ -49,5 +57,17 @@ Please rate my plugin!
 = How frequently are the values updated? =
 The table values are updated once a day GMT from central bank and financial institution sources. 
 
+= Can I paste multiple converters, for different currencies? =
+Version 2.1 onwards allows multiple currency converters on the same sidebar.
+
+= Why are the prices always favorable? =
+The conversion uses a single price value, the mid-price between buy and sell side in the interbank market for the currency in question. The mid-price, by definition, is more competitive than the buy price and sell price for selling and buying respectively. 
+
+= Can I paste the currency converter into a post ? =
+Yes, javascript code is available directly from [fx-rate.net](http://fx-rate.net/). You have to paste the javascript into the post in HTML mode.
+
 = Is there support  ? = 
-Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) or email widgets at fx-rate.net
+Yes, further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-currency-converter-plugin/) and [fx-rate.net/conditions](http://fx-rate.net/getwidget_calculator/#conditions)
+
+= Email = 
+Email any problems or suggestions to widgets at fx-rate.net
