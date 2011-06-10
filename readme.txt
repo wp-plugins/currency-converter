@@ -11,10 +11,10 @@ Stable tag: 2.1
 
 Currency calculator widget, converts money amounts between currencies. Size, color, and layout can be customized.
 
-* Choose default currencies for the conversions
+* Choose default currencies for the calculator
 * Choice of over 200 currencies
 * Choice of display formats, adjustable width and header colors
-* Widget is preloaded with exchange rates, so calculation is instant
+* Calculation is instant. The widget is preloaded with exchange rates so reponse is instant.
 
 == Installation ==
 
