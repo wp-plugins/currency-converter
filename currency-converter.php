@@ -183,7 +183,7 @@ class currency_converter extends WP_Widget
        		// Get currency, length and label type 
 
        		echo '<p><label for="' .$this->get_field_id( 'currency_code' ). '">Currency:'.
-               	     '<select id="' .$this->get_field_id( 'currency_code' ). '" name="' .$this->get_field_name( 'currency_code' ). 'currency-code" style="width:125px">';
+               	     '<select id="' .$this->get_field_id( 'currency_code' ). '" name="' .$this->get_field_name( 'currency_code' ). '" style="width:125px">';
       		echo '<OPTION value=""></option>';
      		cc_print_thecurrency_list($currency_code, $currency_list);
       		echo '</select></label></p>';
