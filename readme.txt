@@ -26,12 +26,12 @@ Currency calculator widget, converts money amounts between currencies. The plugi
 
 == Screenshots ==
 
-1. Generic currency conversion calculator - vertical layout
-2. Euro currency conversion calculator - vertical layout
-3. Hong Kong Dollar currency conversion calculator - vertical layout
-4. Generic currency conversion calculator - horizontal layout
-5. Euro currency conversion calculator - horizontal layout
-6. Options panel 
+1. Generic currency calculator - vertical layout
+2. Generic currency calculator - horizontal layout and green colour selection
+3. GB Sterling Pound currency calculator - vertical layout and blue colour selection
+4. Generic currency calculator - compact vertical layout and gold colour selection
+5. US Dollar currency calculator - horizontal layout and gold colour selection
+6. Admin panel 
 
 == Changelog ==
 
