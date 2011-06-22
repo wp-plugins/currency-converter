@@ -295,8 +295,6 @@ class currency_converter extends WP_Widget
       	$currency_code = htmlspecialchars($instance['currency_code'], ENT_QUOTES);
 	$currency_name = htmlspecialchars($instance['currency_name'], ENT_QUOTES);
 	$title = $currency_name;
-	if(empty($title))
-		$title="Currency Calculator";
       	$country_code = htmlspecialchars($instance['country_code'], ENT_QUOTES);
       	$length = htmlspecialchars($instance['length'], ENT_QUOTES);
       	$layout = htmlspecialchars($instance['layout'], ENT_QUOTES);
