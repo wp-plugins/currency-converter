@@ -291,11 +291,12 @@ class currency_converter extends WP_Widget
 	// Get values 
       	extract($args);
 
-
       	// Extract value from vars
       	$currency_code = htmlspecialchars($instance['currency_code'], ENT_QUOTES);
 	$currency_name = htmlspecialchars($instance['currency_name'], ENT_QUOTES);
 	$title = $currency_name;
+	if(empty($title))
+		$title="Currency Calculator";
       	$country_code = htmlspecialchars($instance['country_code'], ENT_QUOTES);
       	$length = htmlspecialchars($instance['length'], ENT_QUOTES);
       	$layout = htmlspecialchars($instance['layout'], ENT_QUOTES);
@@ -319,12 +320,6 @@ class currency_converter extends WP_Widget
 
 	$text_color = str_replace("#","",$text_color);
 
-	echo $before_widget; 
-
-
-	// Output title
-	echo $before_title . $title . $after_title; 
-	
 
 	// Output calculator
 
@@ -363,9 +358,14 @@ class currency_converter extends WP_Widget
 	#		OUTPUT HTML
 	#
 
+	echo $before_widget; 
+
+
+	// Output title
+	echo $before_title . $title . $after_title; 
 
 	echo '<!-Currency Converter widget - HTML code - fx-rates.net -->
-	     <div  style="width:'.$width.'px; background-color:'.$background_color.';border:2px solid #888;text-align:center;margin: 0px; padding: 0px;margin-top:10px!important">';
+	     <div  style="width:'.$width.'px; background-color:'.$background_color.';border:2px solid #888;text-align:center;margin: auto; padding: 0px;margin-top:10px!important">';
 
 	echo '<div style="margin: 0px; padding: 0px;text-align:center;align:center;background-color:'.$border_color. ';border-bottom:1px solid #888;width:100%">
 	     <a class="'.$calc_label.'label" 
