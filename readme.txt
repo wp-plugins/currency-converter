@@ -4,17 +4,17 @@ Donate link: http://www.fx-rate.net/
 Tags: currency converter, currency conversion, currency calculator, foreign exchange conversion, fx rate converter, EUR, USD, CAD, GBP, USD, dollar, euro, sterling conversion
 Tested up to: 3.0.1
 Requires at least: 2.8
-Stable tag: 2.1
+Stable tag: 2.1.1
 
 
 == Description ==
 
 Currency calculator widget, converts money amounts between currencies. Size, color, and layout can be customized.
 
-* Choose default currencies for the conversions
+* Choose default currencies for the calculator
 * Choice of over 200 currencies
 * Choice of display formats, adjustable width and header colors
-* Widget is preloaded with exchange rates, so calculation is instant
+* Calculation is instant. The widget is preloaded with exchange rates so reponse is instant.
 
 == Installation ==
 
@@ -34,8 +34,13 @@ Currency calculator widget, converts money amounts between currencies. Size, col
 4. Generic currency calculator - compact vertical layout and gold colour selection
 5. US Dollar currency calculator - horizontal layout and gold colour selection
 6. Admin panel 
+7. US Dollar currency calculator - horizontal layout and dark blue colour selection
 
 == Changelog ==
+
+= 2.1.1 =
+* Released 23/06/2011
+* Corrections to html and css that affected alignment and title of plugin
 
 = 2.1 =
 * Released 11/06/2011
