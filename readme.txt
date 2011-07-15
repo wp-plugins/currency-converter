@@ -14,7 +14,7 @@ Currency calculator widget, converts money amounts between currencies. Size, col
 * Choose default currencies for the calculator
 * Choice of over 200 currencies
 * Choice of display formats, adjustable width and header colors
-* Calculation is instant. The widget is preloaded with exchange rates so reponse is instant.
+* Calculation is instant. The widget is preloaded with exchange rates so response is instant.
 
 == Installation ==
 
