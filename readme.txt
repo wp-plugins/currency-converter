@@ -2,7 +2,7 @@
 Contributors: enclick
 Donate link: http://www.fx-rate.net/
 Tags: currency converter, currency conversion, currency calculator, foreign exchange conversion, fx rate converter, EUR, USD, CAD, GBP, USD, dollar, euro, sterling conversion
-Tested up to: 3.2
+Tested up to: 3.3
 Requires at least: 2.8
 Stable tag: 2.1.1
 
