@@ -274,7 +274,7 @@ class currency_converter extends WP_Widget
 	     	$title_checked = "CHECKED";
 
 		echo "\n";
-		echo '<p><label for="' .$this->get_field_id( 'tflag' ). '"> Widget Title: 
+		echo '<p><label for="' .$this->get_field_id( 'tflag' ). '"> Widget Title & fx-rate Link: 
 	     <input type="checkbox" id="' .$this->get_field_id( 'tflag' ). '" name="' .$this->get_field_name( 'tflag' ). '" value=1 '.$title_checked.' /> 
 	     </label></p>';
 
@@ -340,7 +340,8 @@ class currency_converter extends WP_Widget
 			$widget_call_string .="&default_pair=". $default_from . "/" . $default_to;
 
 		$country_code = strtolower($country_code);
-		$image_url = 'http://fx-rate.net/images/countries/'.$country_code.'.png';
+        $plugin_url = trailingslashit( get_bloginfo('wpurl') ).PLUGINDIR.'/'. dirname( plugin_basename(__FILE__) );
+		$image_url = $plugin_url . '/countries/'.$country_code.'.png';
 
        	$calc_label= strtoupper(substr($layout,0,1));
        	if($length == "short") $calc_label .= "S";
@@ -348,7 +349,7 @@ class currency_converter extends WP_Widget
 
 		if($currency_code){
 			$target_url= "http://fx-rate.net/$currency_code/";
-			$flag_string = '<img style="margin:0;padding:0;border:0;" src="http://fx-rate.net/images/countries/'.$country_code.'.png" border=0 >&nbsp;<b>';
+			$flag_string = '<img style="margin:0;padding:0;border:0;" src="'.$image_url.'" border=0 >&nbsp;<b>';
 			$flag_string2 = '</b>';
 			$title = UCWords($currency_name) . " Converter";
 			$calc_label .=  "1";
