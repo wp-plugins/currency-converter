@@ -39,6 +39,11 @@ Currency calculator widget, converts money amounts between currencies. Size, col
 == Changelog ==
 
 = 2.1.1 =
+* In detail compliance with Wordpress Plugin Guidelines
+* Flag images are now included in the plugin
+* Plugin makes one call to an external site for real time exchange rate data
+
+= 2.1.1 =
 * Released 23/06/2011
 * Corrections to html and css that affected alignment and title of plugin
 
