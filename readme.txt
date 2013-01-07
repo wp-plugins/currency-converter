@@ -2,7 +2,7 @@
 Contributors: enclick
 Donate link: http://www.fx-rate.net/
 Tags: currency converter, currency conversion, currency calculator, foreign exchange conversion, fx rate converter
-Tested up to: 3.4.2
+Tested up to: 3.5
 Requires at least: 2.8
 Stable tag: 2.1.1
 
